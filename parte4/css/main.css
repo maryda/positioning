@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+.rosado{
+	background-color:#ee3e64;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	
+	
+	
+	
+}
+
+.celeste{
+	background-color:#44accf;
+	height: 200px;
+	width: 200px;
+	position: relative;
+	margin-left: 200px;
+	
+	
+}
+
+.verde{
+	background-color:#b7d84b; 
+	height: 200px;
+	width: 200px;
+	position: relative;
+	
